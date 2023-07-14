@@ -1,0 +1,15 @@
+/Users/amberoglesby/Projects/draft/draft/bin/Debug/net7.0/draft
+/Users/amberoglesby/Projects/draft/draft/bin/Debug/net7.0/draft.deps.json
+/Users/amberoglesby/Projects/draft/draft/bin/Debug/net7.0/draft.runtimeconfig.json
+/Users/amberoglesby/Projects/draft/draft/bin/Debug/net7.0/draft.dll
+/Users/amberoglesby/Projects/draft/draft/bin/Debug/net7.0/draft.pdb
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.csproj.AssemblyReference.cache
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.AssemblyInfoInputs.cache
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.AssemblyInfo.cs
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.csproj.CoreCompileInputs.cache
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.dll
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/refint/draft.dll
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.pdb
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/draft.genruntimeconfig.cache
+/Users/amberoglesby/Projects/draft/draft/obj/Debug/net7.0/ref/draft.dll
